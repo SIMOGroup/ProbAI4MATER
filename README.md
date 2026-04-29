@@ -17,4 +17,4 @@ Please find at the following link: https://drive.google.com/drive/folders/1FOvzc
 - Magd Abdel-Wahab
 
 # References
-Kim Q. Tran, Duong Q. Nguyen, Loi T. Huynh, Hung Nguyen-Xuan, Magd Abdel-Wahab, An AI-powered synergic probabilistic framework for the sustainable MATER Earth under tropical climate change, Nature Sustainability (2025 Submitted).
+Kim Q. Tran, Duong Q. Nguyen, Loi T. Huynh, Hung Nguyen-Xuan, Magd Abdel-Wahab, A Probabilistic Neural Network Framework for Multi-Objective Sustainable Building Design under Tropical Climate Change, Applied Soft Computing (2026 Revision).
