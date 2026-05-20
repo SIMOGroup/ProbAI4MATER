@@ -7,7 +7,7 @@ This repository provides the demonstration simulation dataset and Python codes o
 - Employing Termus Plus energy simulation, ANOVA F-test, Artificial Neural Networks (ANN), Conditional probabilistic sampling, Bayesian Neural Networks (BNN), Mathematical statistics, Confidence-based MATER objective functions, Non-dominated Sorting Genetic Algorithm II (NSGA-II), and Shapley Additive Explanations (SHAP).
 
 # Dataset and Results
-Please find at the following link: https://drive.google.com/drive/folders/1FOvzcOPQ3acKzle36F3suLLrDE7YtYH9?usp=drive_link
+Please find at the following link: https://doi.org/10.5281/zenodo.20310714
 
 # Contributors
 - Kim Q. Tran
